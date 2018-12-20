@@ -1,0 +1,3 @@
+com\heiko\worker\Service\VotingService.class
+com\heiko\worker\Consumer\Consumer.class
+com\heiko\worker\WorkerApplication.class
